@@ -1,4 +1,8 @@
 <!-- 타이틀 부분 -->
+<h1 align="center">
+  <img src="https://img.shields.io/badge/Welcome%20to%20Dohun's%20GitHub-4CBBF2?style=for-the-badge&logo=github&logoColor=white" width="600" height="100" />
+</h1>
+
 
 <!-- 내용 부분 -->
 <h3 align="center">✨ Tech Stack ✨</h3>
